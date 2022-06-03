@@ -12,7 +12,7 @@ Complete the following steps in order to run the code:
 - Install [VS Code](https://code.visualstudio.com/Download) as your IDE
 - Clone this repository using one of the two options below:
   - Use the "Clone repository" option inside VS Code
-  - Open a new terminal and run `git clone https://github.com/felixpeters/itpm-lecture.git`
+  - Open a new terminal and run `git clone https://github.com/timo-koppe/itpm-lecture.git`
 - Inside the repository, run `npm install` to install all dependencies
 
 Congrats, you can now run the code examples inside VS Code!
