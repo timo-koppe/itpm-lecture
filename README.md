@@ -2,7 +2,7 @@
 
 ![Node.js CI](https://github.com/felixpeters/itpm-lecture/workflows/Node.js%20CI/badge.svg)
 
-Code for practical ITPM lectures offered by Software &amp; Digital Business Group at Technical University of Darmstadt
+Code for practical ITPM lectures offered by Software &amp; Digital Business Group at Technical University of Darmstadt - Original author and credits to Felix Peters
 
 ## Setup
 
